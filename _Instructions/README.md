@@ -101,3 +101,43 @@ Change the file to your SURNAME \
 Work on the exercises  \
 Upload the colab notebook you worked on in this Shared Drive \
 Shared drive:`https://drive.google.com/drive/folders/1Ufs6FIgdzdCj22XYI0av-RZxbcSTLsrf?usp=sharing` \
+
+## 29 October 2026
+
+Go to the notebook `10Interpolation_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/1KvUBrm4jF6KLJ7BbaKcZ1Vk3LPKiSxQZ?usp=sharing` \
+
+## 05 November 2026
+
+Go to the notebook `11FourierTransform_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/1Cx4O1YVaGrd52nEOn6qHtwblV_EsVfsl?usp=sharing` \
+
+## 12 November 2026
+
+Go to the notebook `11FourierTransform_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/1i6doQVy21Z_VuvcMD_nBSBYfPwyZyEwT?usp=sharing` \
+
+## 19 November 2026
+
+Go to the notebook `11FourierTransform_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/1bSo4acuYIpf7UvWLNRUU_1jW_r9o6lcY?usp=sharing` \
